@@ -7,3 +7,4 @@ GIS相关工具、服务等
 - [将shp转成geojson](https://github.com/calvinmetcalf/shapefile-js)
 - [用于编辑Shapefile、GeoJSON、TopoJSON和CSV文件的工具](https://github.com/mbloch/mapshaper)
 - [本地生成Mapbox使用的精灵图片](https://zhuanlan.zhihu.com/p/31390618)
+- [Mapbox样式字体本地化](https://zhuanlan.zhihu.com/p/35837423)
