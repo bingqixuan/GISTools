@@ -9,3 +9,4 @@ GIS相关工具、服务等
 - [本地生成Mapbox使用的精灵图片](https://zhuanlan.zhihu.com/p/31390618)
 - [Mapbox样式字体本地化](https://zhuanlan.zhihu.com/p/35837423)
 - [mb-util:将mbtile文件导出或者打包内容到mbtile文件](https://zhuanlan.zhihu.com/p/31760283)
+- [解析shapefile](https://github.com/mbostock/shapefile)
