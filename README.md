@@ -11,3 +11,4 @@ GIS相关工具、服务等
 - [mb-util:将mbtile文件导出或者打包内容到mbtile文件](https://zhuanlan.zhihu.com/p/31760283)
 - [解析shapefile](https://github.com/mbostock/shapefile)
 - [TIN Terrain: 一个命令行工具，用于将地理标定格式的高度图转换为optimized网格](https://github.com/heremaps/tin-terrain)
+- [全国省市geojson数据](https://github.com/longwosion/geojson-map-china)
